@@ -13,6 +13,7 @@
 
         </div>
     
+    @livewire('admin.datatables.user-table')
 
 
 
